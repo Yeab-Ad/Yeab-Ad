@@ -1,5 +1,4 @@
-
-[![MasterHead]()]
+![MasterHead](https://github.com/Yeab-Ad/Yeab-Ad/blob/main/GitHub%20%20banner.png)
 <h1 align="center">Hi 👋, I'm Yeab-Ad</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" alt="software developer" width="400" src="https://cdn.dribbble.com/users/6137922/screenshots/15162516/media/bc22317c4f871eb002d08e8d471e6592.gif">
