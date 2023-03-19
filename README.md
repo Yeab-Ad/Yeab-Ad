@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.yeabsira.tk](https://yeabsiraofficial.netlify.app)
 
-- 💬 Ask me about **React, Angular,NodeJs , MEAN, MERN ...**
+- 💬 Ask me about **React, Angular,NodeJs ,MEAN ,MERN, Flutter ...**
 
 - 📄 Know about my experiences [https://www.yeabsira.tk](https://yeabsiraofficial.netlify.app)
 
