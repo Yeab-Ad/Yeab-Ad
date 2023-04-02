@@ -6,10 +6,11 @@
 - 🔭 I’m currently working on **Mobile and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://yeabsiras.netlify.app](https://yeabsiras.netlify.app)
+- 👨‍💻 Or u will found on my second portfolio [https://yeabsira3d.netlify.app](https://yeabsira3d.netlify.app)
 
-- 💬 Ask me about **React, Angular,NodeJs ,MEAN ,MERN, Flutter ...**
+- 💬 Ask me about **React, Angular,NodeJs ,MEAN ,MERN, Flutter, Graphic Design ...**
 
-- 📄 Know about my experiences [Go To My Website](https://yeabsiras.netlify.app)
+- 📄 Know about my experiences [Go To My Website](https://yeabsiras.netlify.app) or to my [Second Website](https://yeabsira3d.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
