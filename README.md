@@ -2,16 +2,15 @@
 <h1 align="center"> Hi 👋, I'm Yeab-Ad</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
   
-
 <img align="right" alt="software-developer" width="400" src="https://cdn.dribbble.com/users/6137922/screenshots/15162516/media/bc22317c4f871eb002d08e8d471e6592.gif">
 
 - 🔭 I’m currently working on **Mobile and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://yeabsiras.netlify.app](https://yeabsiras.netlify.app) 
 
-- 👨‍💻 Or u will found on my second portfolio [https://yeabsira3d.netlify.app](https://yeabsira3d.netlify.app)
+- 👨‍💻 Or u will find on my second portfolio [https://yeabsira3d.netlify.app](https://yeabsira3d.netlify.app)
 
-- 💬 Ask me about **React, Angular,NodeJs ,MEAN ,MERN, Flutter, Graphic Design ...**
+- 💬 Ask me about **React, Angular, NodeJs,MEAN, MERN, Flutter, Graphic Design ...**
 
 - 📄 Know about my experiences [Go To My Website](https://yeabsiras.netlify.app) or to my [Second Website](https://yeabsira3d.netlify.app/)
 
