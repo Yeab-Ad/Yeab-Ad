@@ -10,9 +10,9 @@
 
 - 👨‍💻 You can also check out my other portfolios:
 
- [https://yeabsiras.netlify.app](https://yeabsiras.netlify.app)
-
- [https://yeabsira3d.netlify.app](https://yeabsira3d.netlify.app)
+       [https://yeabsiras.netlify.app](https://yeabsiras.netlify.app)
+      
+       [https://yeabsira3d.netlify.app](https://yeabsira3d.netlify.app)
 
 - 💬 Ask me about **React,Next.js , Angular, NodeJs,MEAN, MERN, Flutter, Graphic Design ...**
 
