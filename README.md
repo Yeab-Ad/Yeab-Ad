@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://yeabsira-adem.vercel.app](https://yeabsira-adem.vercel.app/)
 
 - 👨‍💻 You can also check out my other portfolios:
-- 
+
  [https://yeabsiras.netlify.app](https://yeabsiras.netlify.app)
 
  [https://yeabsira3d.netlify.app](https://yeabsira3d.netlify.app)
